@@ -1,0 +1,2064 @@
+[
+  {
+    "label": "LEGO Batman 1 - Steam English",
+    "build_id": "SteamEnglish",
+    "backend": "BatmanVfs",
+    "sha256": "f9ef801cc39df83cac5f9c8f35b6724cd0587f8df6754a9601be7c35aa960716",
+    "file_size": 7561216,
+    "image_size": 41480192,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "text_config": "ENGLISH_PLUS_LB1.ini",
+    "hooks": [
+      {
+        "name": "open",
+        "rva": 3004320,
+        "prologue": "81ec04010000a1d0789a0033c4898424",
+        "relocations": []
+      },
+      {
+        "name": "exists",
+        "rva": 3004816,
+        "prologue": "578b7c240885ff7471803f00746c538b",
+        "relocations": []
+      },
+      {
+        "name": "size",
+        "rva": 3004944,
+        "prologue": "51a18c38b000568b74240c578b3d8438",
+        "relocations": []
+      },
+      {
+        "name": "whole_file",
+        "rva": 3016880,
+        "prologue": "a18438b000538b5c2410568b74240c57",
+        "relocations": []
+      },
+      {
+        "name": "wave",
+        "rva": 1288032,
+        "prologue": "83ec20538b5c2428558b6c24305633c0",
+        "relocations": []
+      }
+    ]
+  },
+  {
+    "label": "LEGO Batman 1 - GOG English",
+    "build_id": "GogEnglish",
+    "backend": "BatmanVfs",
+    "sha256": "981383d8c842a919dfecf61caf808a27745c3af39f4fa6197e3da88f5e6c842f",
+    "file_size": 7557120,
+    "image_size": 41476096,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "text_config": "ENGLISH_PLUS_LB1.ini",
+    "hooks": [
+      {
+        "name": "open",
+        "rva": 3004272,
+        "prologue": "81ec04010000a1d0689a0033c4898424",
+        "relocations": []
+      },
+      {
+        "name": "exists",
+        "rva": 3004768,
+        "prologue": "578b7c240885ff7471803f00746c538b",
+        "relocations": []
+      },
+      {
+        "name": "size",
+        "rva": 3004896,
+        "prologue": "51a18c28b000568b74240c578b3d8428",
+        "relocations": []
+      },
+      {
+        "name": "whole_file",
+        "rva": 3016832,
+        "prologue": "a18428b000538b5c2410568b74240c57",
+        "relocations": []
+      },
+      {
+        "name": "wave",
+        "rva": 1288000,
+        "prologue": "83ec20538b5c2428558b6c24305633c0",
+        "relocations": []
+      }
+    ]
+  },
+  {
+    "label": "LEGO Batman 1 - Epic English engine",
+    "build_id": "EpicEnglish",
+    "backend": "BatmanVfs",
+    "sha256": "63959c58667e7b1678523dd9a7404ff99acbcd634beaf049ee2cce139ea5e916",
+    "file_size": 7557120,
+    "image_size": 41476096,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "text_config": "ENGLISH_PLUS_LB1.ini",
+    "hooks": [
+      {
+        "name": "open",
+        "rva": 3004592,
+        "prologue": "81ec04010000a1d0689a0033c4898424",
+        "relocations": []
+      },
+      {
+        "name": "exists",
+        "rva": 3005088,
+        "prologue": "578b7c240885ff7471803f00746c538b",
+        "relocations": []
+      },
+      {
+        "name": "size",
+        "rva": 3005216,
+        "prologue": "51a18c28b000568b74240c578b3d8428",
+        "relocations": []
+      },
+      {
+        "name": "whole_file",
+        "rva": 3017152,
+        "prologue": "a18428b000538b5c2410568b74240c57",
+        "relocations": []
+      },
+      {
+        "name": "wave",
+        "rva": 1288064,
+        "prologue": "83ec20538b5c2428558b6c24305633c0",
+        "relocations": []
+      }
+    ]
+  },
+  {
+    "label": "LEGO Batman 2 - Epic English",
+    "build_id": "None",
+    "backend": "NuFileDevice",
+    "sha256": "5f2775f4802a07487f901a392ff78f1a7884ca3ed0c61c67e38944c9a4b45b3b",
+    "file_size": 16555520,
+    "image_size": 18608128,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 1486928,
+        "prologue": "803d1c37030100741b837c2408007514",
+        "relocations": [
+          2
+        ]
+      },
+      {
+        "name": "dat_size",
+        "rva": 1467312,
+        "prologue": "81ec08010000a100fd1b0133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "pc_open",
+        "rva": 1461824,
+        "prologue": "6aff683b97c10064a100000000505153",
+        "relocations": [
+          3
+        ]
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 1466784,
+        "prologue": "81ec08020000a100fd1b0133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "direct_archive_offset",
+        "rva": 1466592,
+        "prologue": "81ec04020000a100fd1b0133c4898424",
+        "relocations": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "label": "LEGO Batman 3 DX9 - Epic English",
+    "build_id": "None",
+    "backend": "NuFileDeviceSmart",
+    "sha256": "6cd6631a42f8b4e69b902531c46d1fbf23e9eb33933f407818060ba317657d92",
+    "file_size": 28450816,
+    "image_size": 30232576,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 2125088,
+        "prologue": "6aff68a872190164a100000000505156",
+        "relocations": [
+          3
+        ]
+      },
+      {
+        "name": "dat_size",
+        "rva": 2074144,
+        "prologue": "81ec08010000a18871900133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "pc_open",
+        "rva": 2131200,
+        "prologue": "518b542410535633f633c033c92bd657",
+        "relocations": []
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 2073920,
+        "prologue": "81ec08020000a18871900133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "direct_archive_offset",
+        "rva": 2073728,
+        "prologue": "81ec04020000a18871900133c4898424",
+        "relocations": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "label": "LEGO Batman 3 DX9 - Steam English",
+    "build_id": "None",
+    "backend": "NuFileDeviceSmart",
+    "sha256": "5e2232f5070e6718ad0de714f4bc1d138b2ab52042334af074659e687c4ee6c8",
+    "file_size": 30448944,
+    "image_size": 32223232,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 2129552,
+        "prologue": "6aff682883190164a100000000505156",
+        "relocations": [
+          3
+        ]
+      },
+      {
+        "name": "dat_size",
+        "rva": 2076288,
+        "prologue": "81ec08010000a188a4900133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "pc_open",
+        "rva": 2135648,
+        "prologue": "518b542410535633f633c033c92bd657",
+        "relocations": []
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 2076064,
+        "prologue": "81ec08020000a188a4900133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "direct_archive_offset",
+        "rva": 2075872,
+        "prologue": "81ec04020000a188a4900133c4898424",
+        "relocations": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "label": "LEGO Lord of the Rings - GOG English",
+    "build_id": "None",
+    "backend": "NuFileDevice",
+    "sha256": "02ab7725562eccd1a2399f50aae5c64371bd21383058cd484fd6c81ce4ab7f0a",
+    "file_size": 20763112,
+    "image_size": 22962176,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 1641536,
+        "prologue": "803d94ee220100741b837c2408007514",
+        "relocations": [
+          2
+        ]
+      },
+      {
+        "name": "dat_size",
+        "rva": 1619680,
+        "prologue": "81ec08010000a160893c0133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "pc_open",
+        "rva": 1613040,
+        "prologue": "6aff68fe13d00064a1000000005081ec",
+        "relocations": [
+          3
+        ]
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 1619152,
+        "prologue": "81ec08020000a160893c0133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "direct_archive_offset",
+        "rva": 1618960,
+        "prologue": "81ec04020000a160893c0133c4898424",
+        "relocations": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "label": "LEGO Lord of the Rings - Steam English",
+    "build_id": "None",
+    "backend": "NuFileDevice",
+    "sha256": "b8adddb3682029fe234a0d9fd91780377f475757cbc7025868c6be393a4c7a1d",
+    "file_size": 20763112,
+    "image_size": 22962176,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 1641536,
+        "prologue": "803d94ee220100741b837c2408007514",
+        "relocations": [
+          2
+        ]
+      },
+      {
+        "name": "dat_size",
+        "rva": 1619680,
+        "prologue": "81ec08010000a160893c0133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "pc_open",
+        "rva": 1613040,
+        "prologue": "6aff68fe13d00064a1000000005081ec",
+        "relocations": [
+          3
+        ]
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 1619152,
+        "prologue": "81ec08020000a160893c0133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "direct_archive_offset",
+        "rva": 1618960,
+        "prologue": "81ec04020000a160893c0133c4898424",
+        "relocations": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "label": "LEGO Marvel Super Heroes - Steam English",
+    "build_id": "None",
+    "backend": "NuFileDevice",
+    "sha256": "08b7018182edf6cd0ab13ec337368febfaf0713e3b58bf04d2c6d87626c25856",
+    "file_size": 27450200,
+    "image_size": 29265920,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 1812912,
+        "prologue": "803de4c6380100538b5c240c56578b7c",
+        "relocations": [
+          2
+        ]
+      },
+      {
+        "name": "dat_size",
+        "rva": 1781104,
+        "prologue": "81ec0c010000a170a0510133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "pc_open",
+        "rva": 1796720,
+        "prologue": "6aff684ea5f60064a1000000005081ec",
+        "relocations": [
+          3
+        ]
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 1780528,
+        "prologue": "81ec08020000a170a0510133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "direct_archive_offset",
+        "rva": 1780336,
+        "prologue": "81ec04020000a170a0510133c4898424",
+        "relocations": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "label": "LEGO The Hobbit DX9 - GOG/Steam English",
+    "build_id": "None",
+    "backend": "NuFileDeviceSmartCString",
+    "sha256": "072e25e2c0be8619d92acd4ae14319164d2ee1cdb1425a295ec2e0f6e2f5c998",
+    "file_size": 30191408,
+    "image_size": 31924224,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 1459920,
+        "prologue": "6aff68289f010164a100000000505156",
+        "relocations": [
+          3
+        ]
+      },
+      {
+        "name": "dat_size",
+        "rva": 1414448,
+        "prologue": "81ec08010000a18012770133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "pc_open",
+        "rva": 1463424,
+        "prologue": "6aff680ba1010164a100000000505153",
+        "relocations": [
+          3
+        ]
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 1414048,
+        "prologue": "81ec08020000a18012770133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "direct_archive_offset",
+        "rva": 1413856,
+        "prologue": "81ec04020000a18012770133c4898424",
+        "relocations": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "label": "LEGO Batman 3 - Epic English DX11",
+    "build_id": "None",
+    "backend": "NuFileDeviceSmart64",
+    "sha256": "1be1339725d9aa754a90f8036b34f9562c92e64a9b12d2f71eb382e90193f5f2",
+    "file_size": 39405568,
+    "image_size": 41848832,
+    "machine": 34404,
+    "preferred_image_base": 5368709120,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 2385744,
+        "prologue": "40574883ec3048c7442428feffffff48",
+        "relocations": []
+      },
+      {
+        "name": "dat_size",
+        "rva": 2328336,
+        "prologue": "48895c24185556574881ec4001000048",
+        "relocations": []
+      },
+      {
+        "name": "pc_open",
+        "rva": 2392528,
+        "prologue": "48896c24104889742420574154415548",
+        "relocations": []
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 2328112,
+        "prologue": "405355565741544881ec30020000488b",
+        "relocations": []
+      },
+      {
+        "name": "direct_archive_offset",
+        "rva": 2327888,
+        "prologue": "48895c24185556574881ec3002000048",
+        "relocations": []
+      }
+    ]
+  },
+  {
+    "label": "LEGO Batman 3 - Steam English DX11",
+    "build_id": "None",
+    "backend": "NuFileDeviceSmart64",
+    "sha256": "4977c11924f1f0c1e7149d62bf2aa7e83bb7862c6424ed9070ccf5b3371d0a0d",
+    "file_size": 41408304,
+    "image_size": 43843584,
+    "machine": 34404,
+    "preferred_image_base": 5368709120,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 2391488,
+        "prologue": "40574883ec3048c7442428feffffff48",
+        "relocations": []
+      },
+      {
+        "name": "dat_size",
+        "rva": 2331664,
+        "prologue": "48895c24185556574881ec4001000048",
+        "relocations": []
+      },
+      {
+        "name": "pc_open",
+        "rva": 2398272,
+        "prologue": "48896c24104889742420574154415548",
+        "relocations": []
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 2331440,
+        "prologue": "405355565741544881ec30020000488b",
+        "relocations": []
+      },
+      {
+        "name": "direct_archive_offset",
+        "rva": 2331216,
+        "prologue": "48895c24185556574881ec3002000048",
+        "relocations": []
+      }
+    ]
+  },
+  {
+    "label": "LEGO The Hobbit - GOG/Steam English DX11",
+    "build_id": "None",
+    "backend": "NuFileDeviceSmartCString64",
+    "sha256": "a7a8956e73007e7f04302eef63c97ba8adf832f7e82ff53770c2a4fd4dd084a0",
+    "file_size": 38323504,
+    "image_size": 42356736,
+    "machine": 34404,
+    "preferred_image_base": 5368709120,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 1648128,
+        "prologue": "40574883ec3048c7442428feffffff48",
+        "relocations": []
+      },
+      {
+        "name": "dat_size",
+        "rva": 1596464,
+        "prologue": "48895c24185556574881ec4001000048",
+        "relocations": []
+      },
+      {
+        "name": "pc_open",
+        "rva": 1651616,
+        "prologue": "40555657415441554883ec5048c74424",
+        "relocations": []
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 1596064,
+        "prologue": "405355565741544881ec30020000488b",
+        "relocations": []
+      },
+      {
+        "name": "direct_archive_offset",
+        "rva": 1595856,
+        "prologue": "48895c24185556574881ec3002000048",
+        "relocations": []
+      }
+    ]
+  },
+  {
+    "label": "LEGO DC Super-Villains - Steam English DX11",
+    "build_id": "None",
+    "backend": "NuFileDeviceShared64",
+    "sha256": "072c4725ea7ca4c88b1cb74b64b3536327c59a158ee91a13224dda556727b0c1",
+    "file_size": 51380096,
+    "image_size": 63381504,
+    "machine": 34404,
+    "preferred_image_base": 5368709120,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "open",
+        "rva": 1226848,
+        "prologue": "40535556574154415541574881ec8004",
+        "relocations": []
+      },
+      {
+        "name": "size",
+        "rva": 1227936,
+        "prologue": "40534881ec70040000488b05a06b6f02",
+        "relocations": []
+      },
+      {
+        "name": "factory",
+        "rva": 1204896,
+        "prologue": "488bc45741544155415641574883ec60",
+        "relocations": []
+      },
+      {
+        "name": "offset",
+        "rva": 1227856,
+        "prologue": "40534883ec30498bd848c74424580000",
+        "relocations": []
+      },
+      {
+        "name": "exists",
+        "rva": 1227648,
+        "prologue": "40534881ec70040000488b05c06c6f02",
+        "relocations": []
+      }
+    ],
+    "pc_device_id": 1,
+    "pc_device_vtable_rva": 28439136,
+    "release_control": {
+      "name": "release_control",
+      "rva": 628592,
+      "prologue": "48895c2410574883ec2083cfff488bd9",
+      "relocations": []
+    },
+    "pc_device_lookup": {
+      "name": "pc_device_lookup",
+      "rva": 1185968,
+      "prologue": "48895c2410564883ec20488b1dff849e",
+      "relocations": []
+    }
+  },
+  {
+    "label": "LEGO Marvel Super Heroes 2 - Steam English DX11",
+    "build_id": "None",
+    "backend": "NuFileDeviceShared64",
+    "sha256": "acba1c3c0c41eb0d604ce5864838c6b81da756faed7027a784c4fae88b325af8",
+    "file_size": 50720664,
+    "image_size": 79929344,
+    "machine": 34404,
+    "preferred_image_base": 5368709120,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "open",
+        "rva": 3678016,
+        "prologue": "40535556574154415541574881ec8004",
+        "relocations": []
+      },
+      {
+        "name": "size",
+        "rva": 3679072,
+        "prologue": "40534881ec70040000488b0540c44202",
+        "relocations": []
+      },
+      {
+        "name": "factory",
+        "rva": 3670192,
+        "prologue": "488bc45741544155415641574883ec60",
+        "relocations": []
+      },
+      {
+        "name": "offset",
+        "rva": 3678992,
+        "prologue": "40534883ec30498bd848c74424580000",
+        "relocations": []
+      },
+      {
+        "name": "exists",
+        "rva": 3678816,
+        "prologue": "40534881ec70040000488b0540c54202",
+        "relocations": []
+      }
+    ],
+    "pc_device_id": 1,
+    "pc_device_vtable_rva": 28738408,
+    "release_control": {
+      "name": "release_control",
+      "rva": 2942096,
+      "prologue": "48895c2410574883ec2083cfff488bd9",
+      "relocations": []
+    },
+    "pc_device_lookup": {
+      "name": "pc_device_lookup",
+      "rva": 3644896,
+      "prologue": "48895c2410564883ec20488b1d7ffc6f",
+      "relocations": []
+    }
+  },
+  {
+    "label": "LEGO Avengers - Steam English DX11",
+    "build_id": "None",
+    "backend": "NuFileExtendedIntrusive",
+    "sha256": "e5d37bf0b5fce6f46a529ad7eb478ccbb9d98d517ad7f14610c6253a7d8375a9",
+    "file_size": 41402160,
+    "image_size": 43208704,
+    "machine": 34404,
+    "preferred_image_base": 5368709120,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 1889872,
+        "prologue": "48895c2420555657415641574881ec70",
+        "relocations": []
+      },
+      {
+        "name": "dat_size",
+        "rva": 1899824,
+        "prologue": "40534881ec60040000488b0580f39601",
+        "relocations": []
+      },
+      {
+        "name": "pc_factory",
+        "rva": 1957024,
+        "prologue": "40565741564883ec5048c7442448feff",
+        "relocations": []
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 1899456,
+        "prologue": "40534883ec30498bd84c8d4c24584c8d",
+        "relocations": []
+      },
+      {
+        "name": "dat_exists",
+        "rva": 1898512,
+        "prologue": "40534881ec60040000488b05a0f89601",
+        "relocations": []
+      }
+    ]
+  },
+  {
+    "label": "LEGO Avengers - Steam English DX9",
+    "build_id": "None",
+    "backend": "NuFileExtendedIntrusive",
+    "sha256": "bc7e7ad08c92dfb8d285a7e5c67af8a0bfe767eb6651a3d5d8ad9df20c927367",
+    "file_size": 35960112,
+    "image_size": 37281792,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 1779776,
+        "prologue": "81ec28040000a188a6d10133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "dat_size",
+        "rva": 1756912,
+        "prologue": "81ec20040000a188a6d10133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "pc_factory",
+        "rva": 1775616,
+        "prologue": "6aff681b253c0164a100000000505153",
+        "relocations": [
+          3
+        ]
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 1756816,
+        "prologue": "83ec108d442414508b4424188d542404",
+        "relocations": []
+      },
+      {
+        "name": "dat_exists",
+        "rva": 1744752,
+        "prologue": "81ec20040000a188a6d10133c4898424",
+        "relocations": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "label": "LEGO City Undercover - Steam English DX11",
+    "build_id": "None",
+    "backend": "NuFileExtendedRaw",
+    "sha256": "624fed07274bbd105d1d571ecb97a290df6f6f0aff76898c516890da6d136f76",
+    "file_size": 30849016,
+    "image_size": 35905536,
+    "machine": 34404,
+    "preferred_image_base": 5368709120,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 3154768,
+        "prologue": "488bc4565741564881ec7004000048c7",
+        "relocations": []
+      },
+      {
+        "name": "dat_size",
+        "rva": 3155296,
+        "prologue": "40534881ec6004000048c7442430feff",
+        "relocations": []
+      },
+      {
+        "name": "pc_factory",
+        "rva": 3146608,
+        "prologue": "405556574881ec6008000048c7442448",
+        "relocations": []
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "label": "LEGO Jurassic World - Steam English DX11",
+    "build_id": "None",
+    "backend": "NuFileExtendedIntrusive",
+    "sha256": "5b6c09682d830307e6d4eedc1c72ac06f3b8d6ff55eb185c63bd68a3fda4f3ba",
+    "file_size": 40576824,
+    "image_size": 42475520,
+    "machine": 34404,
+    "preferred_image_base": 5368709120,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 2972896,
+        "prologue": "48895c24205556574154415541564157",
+        "relocations": []
+      },
+      {
+        "name": "dat_size",
+        "rva": 2982112,
+        "prologue": "48895c24185556574881ec4001000048",
+        "relocations": []
+      },
+      {
+        "name": "pc_factory",
+        "rva": 3020080,
+        "prologue": "40565741564883ec5048c7442448feff",
+        "relocations": []
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 2981616,
+        "prologue": "405355565741564881ec30020000488b",
+        "relocations": []
+      },
+      null
+    ]
+  },
+  {
+    "label": "LEGO Jurassic World - Steam English DX9",
+    "build_id": "None",
+    "backend": "NuFileExtendedIntrusive",
+    "sha256": "946edb4f67f47931702fe92410cc6dc33004c7bbd7b60caa929ce224d31c7367",
+    "file_size": 34744632,
+    "image_size": 36085760,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 2718608,
+        "prologue": "81ec18040000a100e8bc0133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "dat_size",
+        "rva": 2664064,
+        "prologue": "81ec08010000a100e8bc0133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "pc_factory",
+        "rva": 2711552,
+        "prologue": "6aff683b9b2f0164a100000000505153",
+        "relocations": [
+          3
+        ]
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 2663840,
+        "prologue": "81ec08020000a100e8bc0133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      null
+    ]
+  },
+  {
+    "label": "LEGO The LEGO Movie - Steam English DX9",
+    "build_id": "None",
+    "backend": "NuFileDevice",
+    "sha256": "a64e6d974915f511687b246dc92394603993d9f8c074710d3d9038947c85f01d",
+    "file_size": 28793696,
+    "image_size": 30695424,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 1895712,
+        "prologue": "803d4c2a400100741b837c2408007514",
+        "relocations": [
+          2
+        ]
+      },
+      {
+        "name": "dat_size",
+        "rva": 1859168,
+        "prologue": "81ec08010000a11034630133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "pc_factory",
+        "rva": 1876032,
+        "prologue": "6aff68bee6fb0064a1000000005081ec",
+        "relocations": [
+          3
+        ]
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 1858944,
+        "prologue": "81ec08020000a11034630133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "dat_archive_offset_direct",
+        "rva": 1858752,
+        "prologue": "81ec04020000a11034630133c4898424",
+        "relocations": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "label": "LEGO Ninjago - Steam English DX11",
+    "build_id": "None",
+    "backend": "NuFileExtendedShared",
+    "sha256": "671f6a6e66acc2ef28094277a2d91ae881df58297c29415c8a9e4b9db6367233",
+    "file_size": 40197024,
+    "image_size": 42934272,
+    "machine": 34404,
+    "preferred_image_base": 5368709120,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 4177024,
+        "prologue": "40535556574154415541574881ec8004",
+        "relocations": []
+      },
+      {
+        "name": "dat_size",
+        "rva": 4177728,
+        "prologue": "40534881ec70040000488b05b033d101",
+        "relocations": []
+      },
+      {
+        "name": "pc_factory",
+        "rva": 4171376,
+        "prologue": "488bc44c894820488948085556574154",
+        "relocations": []
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 4177648,
+        "prologue": "40534883ec30498bd84c8d4c24584c8d",
+        "relocations": []
+      },
+      {
+        "name": "dat_exists",
+        "rva": 4177440,
+        "prologue": "40534881ec70040000488b05d034d101",
+        "relocations": []
+      }
+    ],
+    "pc_device_lookup": {
+      "name": "pc_device_lookup",
+      "rva": 4146880,
+      "prologue": "48895c2410564883ec20488b1dafabf4",
+      "relocations": []
+    },
+    "pc_device_vtable_rva": 23986568,
+    "pc_device_id": 1,
+    "ownership_protocol": {
+      "pair_object_offset": 0,
+      "pair_control_offset": 8,
+      "control_strong_offset": 8,
+      "control_weak_offset": 12,
+      "destroy_virtual_slot": 1,
+      "delete_virtual_slot": 2
+    }
+  },
+  {
+    "label": "LEGO Ninjago - Steam English DX9",
+    "build_id": "None",
+    "backend": "NuFileExtendedShared",
+    "sha256": "b00dd24b617063fbe9a8de9ae98ee47bb144d0be3d5595927ba4cd746b4b0f09",
+    "file_size": 33530784,
+    "image_size": 36007936,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 3867008,
+        "prologue": "81ec2c040000a108e9e30133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "dat_size",
+        "rva": 3867840,
+        "prologue": "81ec20040000a108e9e30133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "pc_factory",
+        "rva": 3861520,
+        "prologue": "6aff6824b8720164a1000000005083ec",
+        "relocations": [
+          3
+        ]
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 3867744,
+        "prologue": "83ec148d0424508d44240850ff742420",
+        "relocations": []
+      },
+      {
+        "name": "dat_exists",
+        "rva": 3867536,
+        "prologue": "81ec20040000a108e9e30133c4898424",
+        "relocations": [
+          7
+        ]
+      }
+    ],
+    "pc_device_lookup": {
+      "name": "pc_device_lookup",
+      "rva": 3840320,
+      "prologue": "538b5c2408568b35603a050281fbffff",
+      "relocations": [
+        8
+      ]
+    },
+    "pc_device_vtable_rva": 21884428,
+    "pc_device_id": 1,
+    "ownership_protocol": {
+      "pair_object_offset": 0,
+      "pair_control_offset": 4,
+      "control_strong_offset": 4,
+      "control_weak_offset": 8,
+      "destroy_virtual_slot": 1,
+      "delete_virtual_slot": 2
+    }
+  },
+  {
+    "label": "LEGO Star Wars The Force Awakens - Steam English DX11",
+    "build_id": "None",
+    "backend": "NuFileExtendedIntrusive",
+    "sha256": "754350ea0063a08fd0217568129a10950204ebe24d017284119c8afb87fe0ec9",
+    "file_size": 46626104,
+    "image_size": 48480256,
+    "machine": 34404,
+    "preferred_image_base": 5368709120,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 4439728,
+        "prologue": "48895c24205556574154415541564157",
+        "relocations": []
+      },
+      {
+        "name": "dat_size",
+        "rva": 4483952,
+        "prologue": "48895c24185556574154415541564157",
+        "relocations": []
+      },
+      {
+        "name": "pc_factory",
+        "rva": 4551744,
+        "prologue": "40565741564883ec5048c7442448feff",
+        "relocations": []
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 4480784,
+        "prologue": "40534883ec30498bd84c8d4c24584c8d",
+        "relocations": []
+      },
+      {
+        "name": "dat_exists",
+        "rva": 4475552,
+        "prologue": "48895c24185556574154415541564157",
+        "relocations": []
+      }
+    ]
+  },
+  {
+    "label": "LEGO Star Wars The Force Awakens - Steam English DX9",
+    "build_id": "None",
+    "backend": "NuFileExtendedIntrusive",
+    "sha256": "b3afb9078486fa72aec54d695620d9a1f1568b3cfe23f4db200d86a793ef7037",
+    "file_size": 43233592,
+    "image_size": 44572672,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 4074160,
+        "prologue": "81ec3c080000a15846260233c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "dat_size",
+        "rva": 4044624,
+        "prologue": "81ec30080000a15846260233c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "pc_factory",
+        "rva": 4064640,
+        "prologue": "6aff68eb8a580164a100000000505153",
+        "relocations": [
+          3
+        ]
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 4044528,
+        "prologue": "83ec108d442414508b4424188d542404",
+        "relocations": []
+      },
+      {
+        "name": "dat_exists",
+        "rva": 4030640,
+        "prologue": "81ec34080000a15846260233c4898424",
+        "relocations": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "label": "LEGO Harry Potter Years 1-4 - Steam English x86",
+    "build_id": "None",
+    "backend": "NuFileExtendedRaw",
+    "sha256": "6ee3dc4c3062972545f9ff4c3f6707e5d493a42e8e15faf1452abbe509854b00",
+    "file_size": 14950400,
+    "image_size": 16822272,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "preferred_base_only": true,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 5973856,
+        "prologue": "83ec40803d2695e30000538b5c244c56",
+        "relocations": []
+      },
+      {
+        "name": "dat_size",
+        "rva": 5660256,
+        "prologue": "8b44240481ec0401000053555657508b",
+        "relocations": []
+      },
+      {
+        "name": "pc_factory",
+        "rva": 5930608,
+        "prologue": "8b442408535533ed5633db2bc5577420",
+        "relocations": []
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "label": "LEGO Harry Potter Years 5-7 - Steam English x86",
+    "build_id": "None",
+    "backend": "NuFileDevice",
+    "sha256": "d933f68e1f7cf738933390aa070166123c27958656ac72d6bd03706ff47a74f0",
+    "file_size": 17131008,
+    "image_size": 18612224,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "preferred_base_only": true,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 877136,
+        "prologue": "803dd889d50000741b837c2408007514",
+        "relocations": []
+      },
+      {
+        "name": "dat_size",
+        "rva": 856960,
+        "prologue": "81ec08010000a1b03ef00033c4898424",
+        "relocations": []
+      },
+      {
+        "name": "pc_factory",
+        "rva": 851248,
+        "prologue": "6aff68cbb7a90064a100000000505153",
+        "relocations": []
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 856432,
+        "prologue": "81ec08020000a1b03ef00033c4898424",
+        "relocations": []
+      },
+      {
+        "name": "dat_archive_offset_direct",
+        "rva": 856240,
+        "prologue": "81ec04020000a1b03ef00033c4898424",
+        "relocations": []
+      }
+    ]
+  },
+  {
+    "label": "LEGO Indiana Jones The Original Adventures - Steam English x86",
+    "build_id": "Indy1SteamEnglish",
+    "backend": "BatmanVfs",
+    "sha256": "c12f7348ec63aed61f56eb15d825f15b8340500668fa8c8dcf06c2f332e5e5fd",
+    "file_size": 7847936,
+    "image_size": 41963520,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "preferred_base_only": true,
+    "text_config": "ENGLISH_PLUS_IJ1.ini",
+    "hooks": [
+      {
+        "name": "open",
+        "rva": 2835696,
+        "prologue": "81ec04010000a1508d970033c4898424",
+        "relocations": []
+      },
+      {
+        "name": "exists",
+        "rva": 2836176,
+        "prologue": "578b7c240885ff7471803f00746c538b",
+        "relocations": []
+      },
+      {
+        "name": "size",
+        "rva": 2836304,
+        "prologue": "51a1d837b000568b74240c578b3dd037",
+        "relocations": []
+      },
+      {
+        "name": "whole_file",
+        "rva": 2847808,
+        "prologue": "a1d037b000538b5c2410568b74240c57",
+        "relocations": []
+      },
+      {
+        "name": "wave",
+        "rva": 1248256,
+        "prologue": "83ec20538b5c2428558b6c24305633c0",
+        "relocations": []
+      }
+    ]
+  },
+  {
+    "label": "LEGO Batman 2 - Steam English x86",
+    "build_id": "None",
+    "backend": "NuFileDevice",
+    "sha256": "d4c66368751ff99d21674cbc1d2f57cba4b68241f848932ea77543bf701b43e4",
+    "file_size": 18690560,
+    "image_size": 20738048,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "preferred_base_only": true,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 1477968,
+        "prologue": "803d6cfa020100741b837c2408007514",
+        "relocations": [
+          2
+        ]
+      },
+      {
+        "name": "dat_size",
+        "rva": 1457920,
+        "prologue": "81ec08010000a110c01b0133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "pc_factory",
+        "rva": 1452432,
+        "prologue": "6aff68fb68c10064a100000000505153",
+        "relocations": [
+          3
+        ]
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 1457392,
+        "prologue": "81ec08020000a110c01b0133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "dat_archive_offset_direct",
+        "rva": 1457200,
+        "prologue": "81ec04020000a110c01b0133c4898424",
+        "relocations": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "label": "LEGO Indiana Jones 2 - Steam English x86",
+    "build_id": "Indy2SteamEnglish",
+    "backend": "FlatVfs",
+    "sha256": "b3d3a7871187dbb6bd5d357e93a8153585ac68fbe3a302bae7e4ccb372d74ede",
+    "file_size": 17166336,
+    "image_size": 18903040,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "preferred_base_only": true,
+    "text_config": "ENGLISH_PLUS_IJ2.ini",
+    "hooks": [
+      {
+        "name": "open",
+        "rva": 2866000,
+        "prologue": "81ec4c020000803dfc70fd0000750f33",
+        "relocations": []
+      },
+      {
+        "name": "exists",
+        "rva": 2867552,
+        "prologue": "558b6c240885ed7470807d0000746a53",
+        "relocations": []
+      },
+      {
+        "name": "size",
+        "rva": 2867680,
+        "prologue": "81ec0c010000558bac24140100005657",
+        "relocations": []
+      },
+      {
+        "name": "whole_file",
+        "rva": 2926128,
+        "prologue": "558bec83e4f8a10871fd0083ec0c538b",
+        "relocations": []
+      },
+      null
+    ]
+  },
+  {
+    "label": "LEGO Batman 2 - GOG English x86",
+    "build_id": "None",
+    "backend": "NuFileDevice",
+    "sha256": "849984767c19c3d56eae31e3f4ff54418af1ddbf5d01e03b9eefa8ecc1ad20dc",
+    "file_size": 18313728,
+    "image_size": 20361216,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 1477968,
+        "prologue": "803d6cfa020100741b837c2408007514",
+        "relocations": [
+          2
+        ]
+      },
+      {
+        "name": "dat_size",
+        "rva": 1457920,
+        "prologue": "81ec08010000a110c01b0133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "pc_factory",
+        "rva": 1452432,
+        "prologue": "6aff68fb68c10064a100000000505153",
+        "relocations": [
+          3
+        ]
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 1457392,
+        "prologue": "81ec08020000a110c01b0133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "dat_archive_offset_direct",
+        "rva": 1457200,
+        "prologue": "81ec04020000a110c01b0133c4898424",
+        "relocations": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "label": "LEGO Batman 3 - GOG English DX11",
+    "build_id": "None",
+    "backend": "NuFileDeviceSmart64",
+    "sha256": "2f599424414b7c254e6ce2a197525a9ad71a3c31ab2c67e83f1a255dac16be9a",
+    "file_size": 41408304,
+    "image_size": 43843584,
+    "machine": 34404,
+    "preferred_image_base": 5368709120,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 2391488,
+        "prologue": "40574883ec3048c7442428feffffff48",
+        "relocations": []
+      },
+      {
+        "name": "dat_size",
+        "rva": 2331664,
+        "prologue": "48895c24185556574881ec4001000048",
+        "relocations": []
+      },
+      {
+        "name": "pc_open",
+        "rva": 2398272,
+        "prologue": "48896c24104889742420574154415548",
+        "relocations": []
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 2331440,
+        "prologue": "405355565741544881ec30020000488b",
+        "relocations": []
+      },
+      {
+        "name": "direct_archive_offset",
+        "rva": 2331216,
+        "prologue": "48895c24185556574881ec3002000048",
+        "relocations": []
+      }
+    ]
+  },
+  {
+    "label": "LEGO Batman 3 DX9 - GOG English",
+    "build_id": "None",
+    "backend": "NuFileDeviceSmart",
+    "sha256": "154c361b084c2df792194ac306b5b765dc868870404a019ad1c175979eb698e2",
+    "file_size": 30448944,
+    "image_size": 32223232,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 2129552,
+        "prologue": "6aff682883190164a100000000505156",
+        "relocations": [
+          3
+        ]
+      },
+      {
+        "name": "dat_size",
+        "rva": 2076288,
+        "prologue": "81ec08010000a188a4900133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "pc_open",
+        "rva": 2135648,
+        "prologue": "518b542410535633f633c033c92bd657",
+        "relocations": []
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 2076064,
+        "prologue": "81ec08020000a188a4900133c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "direct_archive_offset",
+        "rva": 2075872,
+        "prologue": "81ec04020000a188a4900133c4898424",
+        "relocations": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "label": "LEGO Harry Potter Years 1-4 - GOG English x86",
+    "build_id": "None",
+    "backend": "NuFileExtendedRaw",
+    "sha256": "deec85b342fb59fdfe93cf491687a15ab3cca766379fdf1458d806d23997f19f",
+    "file_size": 14598144,
+    "image_size": 16470016,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 5973856,
+        "prologue": "83ec40803d2695e30000538b5c244c56",
+        "relocations": []
+      },
+      {
+        "name": "dat_size",
+        "rva": 5660256,
+        "prologue": "8b44240481ec0401000053555657508b",
+        "relocations": []
+      },
+      {
+        "name": "pc_factory",
+        "rva": 5930608,
+        "prologue": "8b442408535533ed5633db2bc5577420",
+        "relocations": []
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "label": "LEGO Harry Potter Years 5-7 - GOG English x86",
+    "build_id": "None",
+    "backend": "NuFileDevice",
+    "sha256": "0159f149aee484bd2076a312716dcd19e10993062875fd172714b0ef9598f1ff",
+    "file_size": 16754176,
+    "image_size": 18235392,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 877136,
+        "prologue": "803dd889d50000741b837c2408007514",
+        "relocations": []
+      },
+      {
+        "name": "dat_size",
+        "rva": 856960,
+        "prologue": "81ec08010000a1b03ef00033c4898424",
+        "relocations": []
+      },
+      {
+        "name": "pc_factory",
+        "rva": 851248,
+        "prologue": "6aff68cbb7a90064a100000000505153",
+        "relocations": []
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 856432,
+        "prologue": "81ec08020000a1b03ef00033c4898424",
+        "relocations": []
+      },
+      {
+        "name": "dat_archive_offset_direct",
+        "rva": 856240,
+        "prologue": "81ec04020000a1b03ef00033c4898424",
+        "relocations": []
+      }
+    ]
+  },
+  {
+    "label": "LEGO Indiana Jones The Original Adventures - GOG English x86",
+    "build_id": "Indy1GogEnglish",
+    "backend": "BatmanVfs",
+    "sha256": "6c72717abc5b38a44ec235540176c76a2778c1d8f0dd8889b714a12391e162d1",
+    "file_size": 7492904,
+    "image_size": 41603072,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "text_config": "ENGLISH_PLUS_IJ1.ini",
+    "hooks": [
+      {
+        "name": "open",
+        "rva": 2835696,
+        "prologue": "81ec04010000a1508d970033c4898424",
+        "relocations": []
+      },
+      {
+        "name": "exists",
+        "rva": 2836176,
+        "prologue": "578b7c240885ff7471803f00746c538b",
+        "relocations": []
+      },
+      {
+        "name": "size",
+        "rva": 2836304,
+        "prologue": "51a1d837b000568b74240c578b3dd037",
+        "relocations": []
+      },
+      {
+        "name": "whole_file",
+        "rva": 2847808,
+        "prologue": "a1d037b000538b5c2410568b74240c57",
+        "relocations": []
+      },
+      {
+        "name": "wave",
+        "rva": 1248256,
+        "prologue": "83ec20538b5c2428558b6c24305633c0",
+        "relocations": []
+      }
+    ]
+  },
+  {
+    "label": "LEGO Indiana Jones 2 - GOG English x86",
+    "build_id": "Indy2GogEnglish",
+    "backend": "FlatVfs",
+    "sha256": "1f0f51faf303c446fc21052a10d1cfa1597022f3712f810837119da2af00eb7a",
+    "file_size": 16814080,
+    "image_size": 18550784,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "text_config": "ENGLISH_PLUS_IJ2.ini",
+    "hooks": [
+      {
+        "name": "open",
+        "rva": 2866000,
+        "prologue": "81ec4c020000803dfc70fd0000750f33",
+        "relocations": []
+      },
+      {
+        "name": "exists",
+        "rva": 2867552,
+        "prologue": "558b6c240885ed7470807d0000746a53",
+        "relocations": []
+      },
+      {
+        "name": "size",
+        "rva": 2867680,
+        "prologue": "81ec0c010000558bac24140100005657",
+        "relocations": []
+      },
+      {
+        "name": "whole_file",
+        "rva": 2926128,
+        "prologue": "558bec83e4f8a10871fd0083ec0c538b",
+        "relocations": []
+      },
+      null
+    ]
+  },
+  {
+    "label": "LEGO Pirates of the Caribbean - GOG English x86",
+    "build_id": "None",
+    "backend": "NuFileDevice",
+    "sha256": "39de791e932a45af6dc5c002d701cd6cdac821b92f7b84166599065348dedc69",
+    "file_size": 15160320,
+    "image_size": 16654336,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 374320,
+        "prologue": "83ec44a1d07de30033c489442440803d",
+        "relocations": []
+      },
+      {
+        "name": "dat_size",
+        "rva": 358304,
+        "prologue": "81ec0c010000a1d07de30033c4898424",
+        "relocations": []
+      },
+      {
+        "name": "pc_factory",
+        "rva": 547616,
+        "prologue": "6aff682bbfa00064a100000000505153",
+        "relocations": []
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 357776,
+        "prologue": "81ec08020000a1d07de30033c4898424",
+        "relocations": []
+      },
+      {
+        "name": "dat_archive_offset_direct",
+        "rva": 357584,
+        "prologue": "81ec04020000a1d07de30033c4898424",
+        "relocations": []
+      }
+    ]
+  },
+  {
+    "label": "LEGO Star Wars III The Clone Wars - GOG English x86",
+    "build_id": "None",
+    "backend": "NuFileDevice",
+    "sha256": "0f62acd337d0b8cf39789f03335020fea4441d4f523e11018d4024ade2797ba0",
+    "file_size": 14589952,
+    "image_size": 15982592,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 1496352,
+        "prologue": "83ec44a1bcd2e80033c489442440803d",
+        "relocations": []
+      },
+      {
+        "name": "dat_size",
+        "rva": 1480928,
+        "prologue": "81ec0c010000a1bcd2e80033c4898424",
+        "relocations": []
+      },
+      {
+        "name": "pc_factory",
+        "rva": 1643968,
+        "prologue": "6aff682b13aa0064a100000000505153",
+        "relocations": []
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 1480384,
+        "prologue": "81ec08020000a1bcd2e80033c4898424",
+        "relocations": []
+      },
+      {
+        "name": "dat_archive_offset_direct",
+        "rva": 1480192,
+        "prologue": "81ec04020000a1bcd2e80033c4898424",
+        "relocations": []
+      }
+    ]
+  },
+  {
+    "label": "LEGO Marvel Super Heroes 2 - Steam English DX9",
+    "build_id": "None",
+    "backend": "NuFileExtendedShared",
+    "sha256": "af8e59fbba7aefd73553677b6df4731bd7f39e809ffa44a24b66021cf07094d8",
+    "file_size": 39747480,
+    "image_size": 64323584,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 3044880,
+        "prologue": "81ec2c040000a104e3150233c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "dat_size",
+        "rva": 3045728,
+        "prologue": "81ec20040000a104e3150233c4898424",
+        "relocations": [
+          7
+        ]
+      },
+      {
+        "name": "pc_factory",
+        "rva": 3038208,
+        "prologue": "558bec6aff684bd5a50164a100000000",
+        "relocations": [
+          6
+        ]
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 3045648,
+        "prologue": "83ec148d0424c7042400000000508d44",
+        "relocations": []
+      },
+      {
+        "name": "dat_exists",
+        "rva": 3045472,
+        "prologue": "81ec20040000a104e3150233c4898424",
+        "relocations": [
+          7
+        ]
+      }
+    ],
+    "pc_device_lookup": {
+      "name": "pc_device_lookup",
+      "rva": 3016672,
+      "prologue": "538b5c2408568b3500773f0281fbffff",
+      "relocations": [
+        8
+      ]
+    },
+    "pc_device_vtable_rva": 24826372,
+    "pc_device_id": 1,
+    "ownership_protocol": {
+      "pair_object_offset": 0,
+      "pair_control_offset": 4,
+      "control_strong_offset": 4,
+      "control_weak_offset": 8,
+      "destroy_virtual_slot": 1,
+      "delete_virtual_slot": 2
+    }
+  },
+  {
+    "label": "LEGO Movie 2 - GOG English DX11",
+    "build_id": "None",
+    "backend": "NuFileExtendedShared",
+    "sha256": "f16f5fbeff7d27be498b3ee5c3c891412e05cf9e7fcb45f4842db1f2e8a75339",
+    "file_size": 55161760,
+    "image_size": 76251136,
+    "machine": 34404,
+    "preferred_image_base": 5368709120,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "dat_open",
+        "rva": 976384,
+        "prologue": "40535556574154415541574881ec8004",
+        "relocations": []
+      },
+      {
+        "name": "dat_size",
+        "rva": 977472,
+        "prologue": "40534881ec70040000488b05f0579902",
+        "relocations": []
+      },
+      {
+        "name": "pc_factory",
+        "rva": 1069376,
+        "prologue": "488bc45741544155415641574883ec60",
+        "relocations": []
+      },
+      {
+        "name": "dat_archive_offset",
+        "rva": 977392,
+        "prologue": "40534883ec30498bd848c74424580000",
+        "relocations": []
+      },
+      {
+        "name": "dat_exists",
+        "rva": 977184,
+        "prologue": "40534881ec70040000488b0510599902",
+        "relocations": []
+      }
+    ],
+    "pc_device_lookup": {
+      "name": "pc_device_lookup",
+      "rva": 968256,
+      "prologue": "48895c2410564883ec20488b1d1f0ec8",
+      "relocations": []
+    },
+    "pc_device_vtable_rva": 30017296,
+    "pc_device_id": 1,
+    "ownership_protocol": {
+      "pair_object_offset": 0,
+      "pair_control_offset": 8,
+      "control_strong_offset": 8,
+      "control_weak_offset": 12,
+      "destroy_virtual_slot": 1,
+      "delete_virtual_slot": 2
+    }
+  },
+  {
+    "label": "LEGO Star Wars The Complete Saga - GOG English x86",
+    "build_id": "TcsGogEnglish",
+    "backend": "FlatVfs",
+    "sha256": "239f6c09b73e5764ced7469f158b621ff34c9984b5b0a850fe77248add259113",
+    "file_size": 5111808,
+    "image_size": 40067072,
+    "machine": 332,
+    "preferred_image_base": 4194304,
+    "text_config": "ENGLISH_PLUS_TCS.ini",
+    "hooks": [
+      {
+        "name": "open",
+        "rva": 1025008,
+        "prologue": "81ec04010000a17095820033c4898424",
+        "relocations": []
+      },
+      {
+        "name": "exists",
+        "rva": 1025552,
+        "prologue": "578b7c240885ff7471803f00746c538b",
+        "relocations": []
+      },
+      {
+        "name": "size",
+        "rva": 1025680,
+        "prologue": "51a1b0ee9100568b74240c578b3da8ee",
+        "relocations": []
+      },
+      {
+        "name": "whole_file",
+        "rva": 1037776,
+        "prologue": "a1a8ee9100538b5c2410568b74240c57",
+        "relocations": []
+      },
+      null
+    ]
+  },
+  {
+    "label": "LEGO Star Wars The Skywalker Saga - Epic English DX11",
+    "build_id": "None",
+    "backend": "NttFile64",
+    "sha256": "10f0e68dc406af43a73ea0b59571d7d86f5c741b63cc3f1a6d2e45b0d581b22b",
+    "file_size": 100655104,
+    "image_size": 106553344,
+    "machine": 34404,
+    "preferred_image_base": 5368709120,
+    "text_config": null,
+    "hooks": [
+      {
+        "name": "global_open",
+        "rva": 54453824,
+        "prologue": "405556574154415541564157488dac24",
+        "relocations": []
+      },
+      {
+        "name": "global_size",
+        "rva": 54452704,
+        "prologue": "40534883ec4048c7442420feffffff48",
+        "relocations": []
+      },
+      {
+        "name": "global_file_info",
+        "rva": 54452464,
+        "prologue": "40574883ec4048c7442420feffffff48",
+        "relocations": []
+      },
+      {
+        "name": "global_exists",
+        "rva": 54451360,
+        "prologue": "40534883ec4048c7442420feffffff48",
+        "relocations": []
+      },
+      {
+        "name": "pc_factory_guard",
+        "rva": 54564560,
+        "prologue": "488bc45741544155415641574883ec50",
+        "relocations": []
+      }
+    ],
+    "pc_device_lookup": {
+      "name": "device_lookup_wrapper",
+      "rva": 54447632,
+      "prologue": "40574883ec5048c7442420feffffff48",
+      "relocations": []
+    },
+    "pc_device_vtable_rva": 70390224,
+    "ntt_dat_hooks": [
+      {
+        "name": "direct_dat_open",
+        "rva": 54496080,
+        "prologue": "48895c240848896c2410488974241848",
+        "relocations": []
+      },
+      {
+        "name": "direct_dat_size",
+        "rva": 54497264,
+        "prologue": "40534881ec50040000488b014c8bc2c6",
+        "relocations": []
+      }
+    ],
+    "ntt_dat_device_vtable_rva": 70385656,
+    "ntt_pc_file_vtable_rva": 70393776
+  }
+]

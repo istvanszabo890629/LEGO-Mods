@@ -1,0 +1,439 @@
+{
+  "module_version": "0.5.16",
+  "hash_algorithm": "SHA-256",
+  "unique_profiles": 43,
+  "editions": [
+    {
+      "game": "LEGO Batman: The Videogame",
+      "store": "Epic",
+      "architecture": "x86",
+      "renderer": null,
+      "original_filename": "LEGOBatman.exe",
+      "sha256": "63959c58667e7b1678523dd9a7404ff99acbcd634beaf049ee2cce139ea5e916",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Batman: The Videogame",
+      "store": "GOG",
+      "architecture": "x86",
+      "renderer": null,
+      "original_filename": "LEGOBatman.exe",
+      "sha256": "981383d8c842a919dfecf61caf808a27745c3af39f4fa6197e3da88f5e6c842f",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Batman: The Videogame",
+      "store": "Steam",
+      "architecture": "x86",
+      "renderer": null,
+      "original_filename": "LEGOBatman.exe",
+      "sha256": "f9ef801cc39df83cac5f9c8f35b6724cd0587f8df6754a9601be7c35aa960716",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Batman 2: DC Super Heroes",
+      "store": "Epic",
+      "architecture": "x86",
+      "renderer": null,
+      "original_filename": "LEGOBatman2.exe",
+      "sha256": "5f2775f4802a07487f901a392ff78f1a7884ca3ed0c61c67e38944c9a4b45b3b",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Batman 2: DC Super Heroes",
+      "store": "GOG",
+      "architecture": "x86",
+      "renderer": null,
+      "original_filename": "LEGOBatman2.exe",
+      "sha256": "849984767c19c3d56eae31e3f4ff54418af1ddbf5d01e03b9eefa8ecc1ad20dc",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Batman 2: DC Super Heroes",
+      "store": "Steam",
+      "architecture": "x86",
+      "renderer": null,
+      "original_filename": "LEGOBatman2.exe",
+      "sha256": "d4c66368751ff99d21674cbc1d2f57cba4b68241f848932ea77543bf701b43e4",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Batman 3: Beyond Gotham",
+      "store": "Epic",
+      "architecture": "x86",
+      "renderer": "DX9",
+      "original_filename": "LEGOBatman3.exe",
+      "sha256": "6cd6631a42f8b4e69b902531c46d1fbf23e9eb33933f407818060ba317657d92",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Batman 3: Beyond Gotham",
+      "store": "Epic",
+      "architecture": "x64",
+      "renderer": "DX11",
+      "original_filename": "LEGOBatman3.exe",
+      "sha256": "1be1339725d9aa754a90f8036b34f9562c92e64a9b12d2f71eb382e90193f5f2",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Batman 3: Beyond Gotham",
+      "store": "GOG",
+      "architecture": "x86",
+      "renderer": "DX9",
+      "original_filename": "LEGOBatman3.exe",
+      "sha256": "154c361b084c2df792194ac306b5b765dc868870404a019ad1c175979eb698e2",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Batman 3: Beyond Gotham",
+      "store": "GOG",
+      "architecture": "x64",
+      "renderer": "DX11",
+      "original_filename": "LEGOBatman3.exe",
+      "sha256": "2f599424414b7c254e6ce2a197525a9ad71a3c31ab2c67e83f1a255dac16be9a",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Batman 3: Beyond Gotham",
+      "store": "Steam",
+      "architecture": "x86",
+      "renderer": "DX9",
+      "original_filename": "LEGOBatman3.exe",
+      "sha256": "5e2232f5070e6718ad0de714f4bc1d138b2ab52042334af074659e687c4ee6c8",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Batman 3: Beyond Gotham",
+      "store": "Steam",
+      "architecture": "x64",
+      "renderer": "DX11",
+      "original_filename": "LEGOBatman3.exe",
+      "sha256": "4977c11924f1f0c1e7149d62bf2aa7e83bb7862c6424ed9070ccf5b3371d0a0d",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO City Undercover",
+      "store": "GOG",
+      "architecture": "x64",
+      "renderer": "DX11",
+      "original_filename": "LEGOLCUR.exe",
+      "sha256": "624fed07274bbd105d1d571ecb97a290df6f6f0aff76898c516890da6d136f76",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO City Undercover",
+      "store": "Steam",
+      "architecture": "x64",
+      "renderer": "DX11",
+      "original_filename": "LEGOLCUR.exe",
+      "sha256": "624fed07274bbd105d1d571ecb97a290df6f6f0aff76898c516890da6d136f76",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO DC Super-Villains",
+      "store": "Steam",
+      "architecture": "x64",
+      "renderer": "DX11",
+      "original_filename": "LEGO DC Super-villains.exe",
+      "sha256": "072c4725ea7ca4c88b1cb74b64b3536327c59a158ee91a13224dda556727b0c1",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Harry Potter: Years 1–4",
+      "store": "GOG",
+      "architecture": "x86",
+      "renderer": null,
+      "original_filename": "LEGOHarryPotter.exe",
+      "sha256": "deec85b342fb59fdfe93cf491687a15ab3cca766379fdf1458d806d23997f19f",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Harry Potter: Years 1–4",
+      "store": "Steam",
+      "architecture": "x86",
+      "renderer": null,
+      "original_filename": "LEGOHarryPotter.exe",
+      "sha256": "6ee3dc4c3062972545f9ff4c3f6707e5d493a42e8e15faf1452abbe509854b00",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Harry Potter: Years 5–7",
+      "store": "GOG",
+      "architecture": "x86",
+      "renderer": null,
+      "original_filename": "LEGOHarry2.exe",
+      "sha256": "0159f149aee484bd2076a312716dcd19e10993062875fd172714b0ef9598f1ff",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Harry Potter: Years 5–7",
+      "store": "Steam",
+      "architecture": "x86",
+      "renderer": null,
+      "original_filename": "LEGOHarry2.exe",
+      "sha256": "d933f68e1f7cf738933390aa070166123c27958656ac72d6bd03706ff47a74f0",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Indiana Jones 2: The Adventure Continues",
+      "store": "GOG",
+      "architecture": "x86",
+      "renderer": null,
+      "original_filename": "LEGOIndy2.exe",
+      "sha256": "1f0f51faf303c446fc21052a10d1cfa1597022f3712f810837119da2af00eb7a",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Indiana Jones 2: The Adventure Continues",
+      "store": "Steam",
+      "architecture": "x86",
+      "renderer": null,
+      "original_filename": "LEGOIndy2.exe",
+      "sha256": "b3d3a7871187dbb6bd5d357e93a8153585ac68fbe3a302bae7e4ccb372d74ede",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Indiana Jones: The Original Adventures",
+      "store": "GOG",
+      "architecture": "x86",
+      "renderer": null,
+      "original_filename": "LEGOIndy.exe",
+      "sha256": "6c72717abc5b38a44ec235540176c76a2778c1d8f0dd8889b714a12391e162d1",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Indiana Jones: The Original Adventures",
+      "store": "Steam",
+      "architecture": "x86",
+      "renderer": null,
+      "original_filename": "LEGOIndy.exe",
+      "sha256": "c12f7348ec63aed61f56eb15d825f15b8340500668fa8c8dcf06c2f332e5e5fd",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Jurassic World",
+      "store": "Steam",
+      "architecture": "x86",
+      "renderer": "DX9",
+      "original_filename": "LEGOJurassicWorld.exe",
+      "sha256": "946edb4f67f47931702fe92410cc6dc33004c7bbd7b60caa929ce224d31c7367",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Jurassic World",
+      "store": "Steam",
+      "architecture": "x64",
+      "renderer": "DX11",
+      "original_filename": "LEGOJurassicWorld.exe",
+      "sha256": "5b6c09682d830307e6d4eedc1c72ac06f3b8d6ff55eb185c63bd68a3fda4f3ba",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Marvel Super Heroes",
+      "store": "Steam",
+      "architecture": "x86",
+      "renderer": null,
+      "original_filename": "LEGOMarvel.exe",
+      "sha256": "08b7018182edf6cd0ab13ec337368febfaf0713e3b58bf04d2c6d87626c25856",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Marvel Super Heroes 2",
+      "store": "Steam",
+      "architecture": "x86",
+      "renderer": "DX9",
+      "original_filename": "LEGOMARVEL2.exe",
+      "sha256": "af8e59fbba7aefd73553677b6df4731bd7f39e809ffa44a24b66021cf07094d8",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Marvel Super Heroes 2",
+      "store": "Steam",
+      "architecture": "x64",
+      "renderer": "DX11",
+      "original_filename": "LEGOMARVEL2.exe",
+      "sha256": "acba1c3c0c41eb0d604ce5864838c6b81da756faed7027a784c4fae88b325af8",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Marvel's Avengers",
+      "store": "Steam",
+      "architecture": "x86",
+      "renderer": "DX9",
+      "original_filename": "LEGOMARVELAvengers.exe",
+      "sha256": "bc7e7ad08c92dfb8d285a7e5c67af8a0bfe767eb6651a3d5d8ad9df20c927367",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Marvel's Avengers",
+      "store": "Steam",
+      "architecture": "x64",
+      "renderer": "DX11",
+      "original_filename": "LEGOMARVELAvengers.exe",
+      "sha256": "e5d37bf0b5fce6f46a529ad7eb478ccbb9d98d517ad7f14610c6253a7d8375a9",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Pirates of the Caribbean: The Video Game",
+      "store": "GOG",
+      "architecture": "x86",
+      "renderer": null,
+      "original_filename": "LEGOPirates.exe",
+      "sha256": "39de791e932a45af6dc5c002d701cd6cdac821b92f7b84166599065348dedc69",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Star Wars III: The Clone Wars",
+      "store": "GOG",
+      "architecture": "x86",
+      "renderer": null,
+      "original_filename": "LEGOCloneWars.exe",
+      "sha256": "0f62acd337d0b8cf39789f03335020fea4441d4f523e11018d4024ade2797ba0",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Star Wars: The Complete Saga",
+      "store": "GOG",
+      "architecture": "x86",
+      "renderer": null,
+      "original_filename": "LEGOStarWarsSaga.exe",
+      "sha256": "239f6c09b73e5764ced7469f158b621ff34c9984b5b0a850fe77248add259113",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Star Wars: The Force Awakens",
+      "store": "Steam",
+      "architecture": "x86",
+      "renderer": "DX9",
+      "original_filename": "LEGOSWTFA.exe",
+      "sha256": "b3afb9078486fa72aec54d695620d9a1f1568b3cfe23f4db200d86a793ef7037",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Star Wars: The Force Awakens",
+      "store": "Steam",
+      "architecture": "x64",
+      "renderer": "DX11",
+      "original_filename": "LEGOSWTFA.exe",
+      "sha256": "754350ea0063a08fd0217568129a10950204ebe24d017284119c8afb87fe0ec9",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO Star Wars: The Skywalker Saga",
+      "store": "Epic",
+      "architecture": "x64",
+      "renderer": "DX11",
+      "original_filename": "LEGOSTARWARSSKYWALKERSAGA.exe",
+      "sha256": "10f0e68dc406af43a73ea0b59571d7d86f5c741b63cc3f1a6d2e45b0d581b22b",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO The Hobbit",
+      "store": "GOG",
+      "architecture": "x86",
+      "renderer": "DX9",
+      "original_filename": "LEGOHobbit.exe",
+      "sha256": "072e25e2c0be8619d92acd4ae14319164d2ee1cdb1425a295ec2e0f6e2f5c998",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO The Hobbit",
+      "store": "GOG",
+      "architecture": "x64",
+      "renderer": "DX11",
+      "original_filename": "LEGOHobbit.exe",
+      "sha256": "a7a8956e73007e7f04302eef63c97ba8adf832f7e82ff53770c2a4fd4dd084a0",
+      "status": "base_game_issue"
+    },
+    {
+      "game": "LEGO The Hobbit",
+      "store": "Steam",
+      "architecture": "x86",
+      "renderer": "DX9",
+      "original_filename": "LEGOHobbit.exe",
+      "sha256": "072e25e2c0be8619d92acd4ae14319164d2ee1cdb1425a295ec2e0f6e2f5c998",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO The Hobbit",
+      "store": "Steam",
+      "architecture": "x64",
+      "renderer": "DX11",
+      "original_filename": "LEGOHobbit.exe",
+      "sha256": "a7a8956e73007e7f04302eef63c97ba8adf832f7e82ff53770c2a4fd4dd084a0",
+      "status": "base_game_issue"
+    },
+    {
+      "game": "LEGO The Lord of the Rings",
+      "store": "GOG",
+      "architecture": "x86",
+      "renderer": null,
+      "original_filename": "LEGOLOTR.exe",
+      "sha256": "02ab7725562eccd1a2399f50aae5c64371bd21383058cd484fd6c81ce4ab7f0a",
+      "status": "tested"
+    },
+    {
+      "game": "LEGO The Lord of the Rings",
+      "store": "Steam",
+      "architecture": "x86",
+      "renderer": null,
+      "original_filename": "LEGOLOTR.exe",
+      "sha256": "b8adddb3682029fe234a0d9fd91780377f475757cbc7025868c6be393a4c7a1d",
+      "status": "tested"
+    },
+    {
+      "game": "The LEGO Movie 2 Videogame",
+      "store": "GOG",
+      "architecture": "x64",
+      "renderer": "DX11",
+      "original_filename": "LEGO The LEGO Movie 2.exe",
+      "sha256": "f16f5fbeff7d27be498b3ee5c3c891412e05cf9e7fcb45f4842db1f2e8a75339",
+      "status": "tested"
+    },
+    {
+      "game": "The LEGO Movie Videogame",
+      "store": "GOG",
+      "architecture": "x86",
+      "renderer": "DX9",
+      "original_filename": "LEGOEmmet.exe",
+      "sha256": "a64e6d974915f511687b246dc92394603993d9f8c074710d3d9038947c85f01d",
+      "status": "tested"
+    },
+    {
+      "game": "The LEGO Movie Videogame",
+      "store": "Steam",
+      "architecture": "x86",
+      "renderer": "DX9",
+      "original_filename": "LEGOEmmet.exe",
+      "sha256": "a64e6d974915f511687b246dc92394603993d9f8c074710d3d9038947c85f01d",
+      "status": "tested"
+    },
+    {
+      "game": "The LEGO NINJAGO Movie Video Game",
+      "store": "GOG",
+      "architecture": "x64",
+      "renderer": "DX11",
+      "original_filename": "LEGONINJAGO.exe",
+      "sha256": "671f6a6e66acc2ef28094277a2d91ae881df58297c29415c8a9e4b9db6367233",
+      "status": "tested"
+    },
+    {
+      "game": "The LEGO NINJAGO Movie Video Game",
+      "store": "Steam",
+      "architecture": "x86",
+      "renderer": "DX9",
+      "original_filename": "LEGONINJAGO.exe",
+      "sha256": "b00dd24b617063fbe9a8de9ae98ee47bb144d0be3d5595927ba4cd746b4b0f09",
+      "status": "tested"
+    },
+    {
+      "game": "The LEGO NINJAGO Movie Video Game",
+      "store": "Steam",
+      "architecture": "x64",
+      "renderer": "DX11",
+      "original_filename": "LEGONINJAGO.exe",
+      "sha256": "671f6a6e66acc2ef28094277a2d91ae881df58297c29415c8a9e4b9db6367233",
+      "status": "tested"
+    }
+  ]
+}
