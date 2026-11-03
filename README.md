@@ -1,8 +1,8 @@
-# LEGO Mods 0.5.16
+# LEGO Mods v0.5.16
 
-> **WARNING: AI-GENERATED**
+> **NOTICE: AI-GENERATED CONTENT**
 >
-> LEGO Mods is a project created by Codex AI. My sole aim was to explore its capabilities: could a tool like this build a simple `.asi` file redirector for modding and translation? During testing, I also had various safeguards added. I welcome feedback from experienced developers, so this project does not become just another piece of AI slop in the vast ocean of the internet.
+> LEGO Mods is a project created by Codex AI via Human Interactions. My sole aim was to explore its capabilities and the coding agents: could a tool like this build a simple `.asi` file redirector for modding and translation purposes? I welcome feedback from experienced (.asi) developers, so this project does not become just another piece of AI slop in the vast ocean of the internet.
 
 ## What it does
 
